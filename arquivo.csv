@@ -1,0 +1,2 @@
+Nome;CPF;Data;Sexo;Logradouro;Numero;Complemento;Bairro;Cidade;Estado;E-mail;Telefone;Celular;Celular é Whats?;Profissão;Empresa;Salário;Emprego Atual;Pretenção Mínima;Pretenção Máxima;Habilidades
+Rodrigo;097.633.701-08;2003/08/04;MASCULINO;Avenida Monumental;301;Total Ville;Monumento Chifrudo;Santa Maria;Distrito Federal;rodrigodx52@gmail.com;61998426512;61998426512;true;Desenvolvedor Java;JavaCoders;3800.00;true;3000.00;4500.00;Java, Spring, MySQLc
